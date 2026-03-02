@@ -85,5 +85,7 @@ Cloud deployment (AWS / Azure)
 Automated retraining pipeline
 
 output :
+<img width="1820" height="979" alt="Image" src="https://github.com/user-attachments/assets/61d26ef4-64a7-490f-af24-93c5c0362a7f" />
 
+<img width="1828" height="967" alt="Image" src="https://github.com/user-attachments/assets/5d1ab65c-f35a-4290-8e56-04ae2f96f766" />
 
